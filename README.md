@@ -9,7 +9,7 @@
 
 Here's the final result:
 
-![Final result](https://github.com/akeemseymens/holberton-smiling-school-javascript/blob/main/images/holberton-smiling-school-javascript.jpg)
+![Final result](https://github.com/akeemseymens/holberton-smiling-school-javascript/blob/main/images/holberton-smiling-school-javascript.jpeg)
 
 ---
 
